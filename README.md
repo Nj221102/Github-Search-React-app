@@ -24,7 +24,8 @@ The project is a part of Project 5 and aims to create a GitHub Account Finder. I
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nj221102/Github-Search-React-app.git
+   
    ```
 
 2. Install dependencies:
