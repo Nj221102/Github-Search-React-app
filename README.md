@@ -52,10 +52,4 @@ The project is a part of Project 5 and aims to create a GitHub Account Finder. I
 - [UserCard Component](./src/components/user-card/user-card.js): The UserCard component is responsible for rendering individual GitHub user information.
 
 ## Author
-
-[Your Name]
-
-Feel free to modify this README to suit your specific project details. Add more sections if needed, such as "Contributing," "License," or "Acknowledgments."
-```
-
-Make sure to replace `[Your Name]` with your actual name or the name of the project's main contributor. Additionally, update `<repository-url>` with the actual URL of your Git repository.# Github-Search-React-app
+   Nitish Jha
