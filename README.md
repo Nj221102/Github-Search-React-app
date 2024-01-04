@@ -1,4 +1,4 @@
-Certainly! Here is a simple README.md template for your React app:
+
 
 ```markdown
 # GitHub Account Finder
@@ -25,7 +25,6 @@ The project is a part of Project 5 and aims to create a GitHub Account Finder. I
 
    ```bash
    git clone https://github.com/Nj221102/Github-Search-React-app.git
-   
    ```
 
 2. Install dependencies:
@@ -54,3 +53,4 @@ The project is a part of Project 5 and aims to create a GitHub Account Finder. I
 
 ## Author
    Nitish Jha
+# Github-Search-React-app
